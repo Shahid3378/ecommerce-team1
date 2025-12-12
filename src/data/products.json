@@ -1,0 +1,286 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Classic Minimal Tee",
+            "price": 999,
+            "rating": 4.7,
+            "reviewCount": 128,
+            "category": "Essentials",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "#1A1A1A"
+                },
+                {
+                    "name": "White",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "Olive",
+                    "hex": "#556B2F"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&h=1000&fit=crop"
+            ],
+            "description": "Our signature minimal tee crafted from 100% organic cotton. Perfect for everyday wear with a relaxed fit and premium feel. Designed in Mumbai, made sustainably.",
+            "material": "100% Organic Cotton (220 GSM)",
+            "fit": "Regular Fit - True to size",
+            "washCare": "Machine wash cold, tumble dry low, do not bleach",
+            "featured": true,
+            "collection": "Essentials"
+        },
+        {
+            "id": "2",
+            "name": "Urban Street Art Tee",
+            "price": 1299,
+            "rating": 4.8,
+            "reviewCount": 94,
+            "category": "Graphic Tees",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "#1A1A1A"
+                },
+                {
+                    "name": "Brick Red",
+                    "hex": "#D4A574"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&h=1000&fit=crop"
+            ],
+            "description": "Bold graphic tee featuring exclusive street art collaboration. Limited edition design inspired by Mumbai street culture.",
+            "material": "100% Organic Cotton (240 GSM)",
+            "fit": "Oversized Fit - Size down for regular fit",
+            "washCare": "Wash inside out, cold water only, air dry recommended",
+            "featured": true,
+            "collection": "Street Art Series"
+        },
+        {
+            "id": "3",
+            "name": "Winter Drop Essential",
+            "price": 1499,
+            "rating": 4.9,
+            "reviewCount": 156,
+            "category": "Essentials",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                {
+                    "name": "Olive",
+                    "hex": "#556B2F"
+                },
+                {
+                    "name": "Charcoal",
+                    "hex": "#36454F"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&h=1000&fit=crop"
+            ],
+            "description": "Premium heavyweight tee from our Winter Drop 2025 collection. Perfect for layering with superior comfort.",
+            "material": "100% Organic Cotton (260 GSM)",
+            "fit": "Regular Fit - True to size",
+            "washCare": "Machine wash cold, hang dry, iron on low heat",
+            "featured": true,
+            "collection": "Winter Drop 2025"
+        },
+        {
+            "id": "4",
+            "name": "Minimal Logo Tee",
+            "price": 899,
+            "rating": 4.6,
+            "reviewCount": 203,
+            "category": "Essentials",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                {
+                    "name": "White",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "Black",
+                    "hex": "#1A1A1A"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=800&h=1000&fit=crop"
+            ],
+            "description": "Simple and versatile tee with subtle ThreadVerse logo. A wardrobe staple for minimalists.",
+            "material": "100% Organic Cotton (200 GSM)",
+            "fit": "Slim Fit - Consider sizing up",
+            "washCare": "Machine wash cold, tumble dry low",
+            "collection": "Essentials"
+        },
+        {
+            "id": "5",
+            "name": "Abstract Geometry Tee",
+            "price": 1199,
+            "rating": 4.7,
+            "reviewCount": 87,
+            "category": "Graphic Tees",
+            "sizes": [
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                {
+                    "name": "Black",
+                    "hex": "#1A1A1A"
+                },
+                {
+                    "name": "Olive",
+                    "hex": "#556B2F"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1571945153237-4929e783af4a?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&h=1000&fit=crop"
+            ],
+            "description": "Contemporary graphic design featuring bold geometric patterns. Make a statement with this artistic piece.",
+            "material": "100% Organic Cotton (220 GSM)",
+            "fit": "Regular Fit - True to size",
+            "washCare": "Wash inside out, cold water, do not iron on print",
+            "collection": "Street Art Series"
+        },
+        {
+            "id": "6",
+            "name": "Vintage Wash Tee",
+            "price": 1099,
+            "rating": 4.8,
+            "reviewCount": 142,
+            "category": "Essentials",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                {
+                    "name": "Brick Red",
+                    "hex": "#D4A574"
+                },
+                {
+                    "name": "Faded Black",
+                    "hex": "#2C2C2C"
+                }
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=800&h=1000&fit=crop",
+                "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=800&h=1000&fit=crop"
+            ],
+            "description": "Pre-washed for that perfect lived-in feel. Soft, comfortable, and ready to become your favorite tee.",
+            "material": "100% Organic Cotton (230 GSM)",
+            "fit": "Regular Fit - True to size",
+            "washCare": "Machine wash cold, tumble dry medium",
+            "collection": "Winter Drop 2025"
+        }
+    ],
+    "reviews": [
+        {
+            "id": "1",
+            "productId": "1",
+            "author": "Priya Sharma",
+            "rating": 5,
+            "date": "2025-01-15",
+            "comment": "Absolutely love this tee! The fabric is so soft and breathable. Perfect fit and the quality is outstanding. Worth every rupee!",
+            "verified": true
+        },
+        {
+            "id": "2",
+            "productId": "1",
+            "author": "Arjun Patel",
+            "rating": 4,
+            "date": "2025-01-10",
+            "comment": "Great quality t-shirt. The organic cotton feels premium. Only minor issue is it shrank slightly after first wash, but still fits well.",
+            "verified": true
+        },
+        {
+            "id": "3",
+            "productId": "1",
+            "author": "Sanya Gupta",
+            "rating": 5,
+            "date": "2025-01-05",
+            "comment": "This is my third purchase from ThreadVerse. Consistently excellent quality. The minimal design is exactly what I was looking for!",
+            "verified": true
+        }
+    ],
+    "teamMembers": [
+        {
+            "name": "Aarav Mehta",
+            "role": "Founder & CEO",
+            "bio": "Passionate about sustainable fashion and minimal design. Started ThreadVerse in 2022 with a vision to make eco-friendly clothing accessible to everyone.",
+            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+            "linkedin": "https://linkedin.com/in/aaravmehta"
+        },
+        {
+            "name": "Nina Kapoor",
+            "role": "Design Director",
+            "bio": "Award-winning designer with 10+ years in fashion. Nina brings her expertise in minimalist aesthetics and sustainable materials to every ThreadVerse collection.",
+            "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+            "linkedin": "https://linkedin.com/in/ninakapoor"
+        },
+        {
+            "name": "Rohan Sen",
+            "role": "Marketing Lead",
+            "bio": "Digital marketing specialist focused on building authentic brand connections. Rohan oversees all brand storytelling and community engagement at ThreadVerse.",
+            "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+            "linkedin": "https://linkedin.com/in/rohansen"
+        }
+    ],
+    "milestones": [
+        {
+            "year": "2022",
+            "title": "Founded",
+            "description": "ThreadVerse launched in Mumbai with 5 essential tees"
+        },
+        {
+            "year": "2023",
+            "title": "10K Customers",
+            "description": "Reached 10,000 happy customers across India"
+        },
+        {
+            "year": "2024",
+            "title": "Carbon Neutral",
+            "description": "Achieved carbon-neutral production and shipping"
+        },
+        {
+            "year": "2025",
+            "title": "Global Expansion",
+            "description": "Expanded to international markets"
+        }
+    ]
+}
